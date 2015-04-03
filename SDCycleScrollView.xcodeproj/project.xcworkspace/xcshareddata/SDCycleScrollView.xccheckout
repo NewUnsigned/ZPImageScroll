@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AE2B2E80-7904-4B88-BA67-B5BBE7203485</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SDCycleScrollView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D5F40F25C201E4330F341DB71547F32D4FAF7A7B</key>
+		<string>https://github.com/NewUnsigned/ZPImageScroll.git</string>
+		<key>FD1D6F72BD49749DB0C6DCC5777E0D807A77ABAF</key>
+		<string>https://github.com/gsdios/SDCycleScrollView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SDCycleScrollView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D5F40F25C201E4330F341DB71547F32D4FAF7A7B</key>
+		<string>../..</string>
+		<key>FD1D6F72BD49749DB0C6DCC5777E0D807A77ABAF</key>
+		<string>../../../SDCycleScrollView</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NewUnsigned/ZPImageScroll.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D5F40F25C201E4330F341DB71547F32D4FAF7A7B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD1D6F72BD49749DB0C6DCC5777E0D807A77ABAF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SDCycleScrollView</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D5F40F25C201E4330F341DB71547F32D4FAF7A7B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZPImageScroll</string>
+		</dict>
+	</array>
+</dict>
+</plist>
